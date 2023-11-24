@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+  font-family: 'Poppins', sans-serif;    
+}
+
+/*  menu */
+
+
+#navbar-items .navbar-nav {
+  display: flex;
+  justify-content: flex-end;
+ 
+  width: 100%;
+}
+
+/*  links */
+#navbar-items a {
+  color: rgb(0, 0, 0);
+  font-size: 1em;
+  margin-left: 2em;
+
+}
+
+#cormenu{
+
+  background-color: #48cae4;
+}
+.navbar-brand {
+  display: flex;
+  align-items: center;
+ 
+}
+
+#container-banner {
+  margin-top: 4em;
+ 
+}
+
+
+
+#centralizar{
+
+  text-align: center;
+
+}
+
+.btn-meu{
+  background-color: rgb(61, 226, 43);
+  
+
+}
+
+#mx-auto{
+padding: 1rem 
+
+}
+
+#add{
+  margin: 1rem;
+}
+#slide-show{
+  margin-top: 2rem;
+}
+
+.card{
+
+  height: 19rem;
+ 
+}
+#slider{
+
+margin: 1rem;
+
+}
